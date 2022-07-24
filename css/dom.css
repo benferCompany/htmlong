@@ -1,0 +1,76 @@
+
+
+.btn-padre{
+   
+}
+
+.articulos:hover{
+    box-shadow: 5px 2px 20px;
+}
+.contenedor-noticias{
+  
+}
+
+.btn-comentar{
+    color: white;
+    background: #0c5183;
+    border:none;
+    padding:5px;
+    border-radius: 5px;
+    width: 100%;
+    
+    
+
+}
+.btn-comentar:hover{
+    background:#f5c116;
+    color: black;
+
+}
+.noticias{
+  
+  max-width: 100%;
+  
+    
+}
+.articulos{
+   
+    max-width: 400px;
+ 
+}
+.contenedor-noticias{
+  
+}
+.imagen{
+ max-width: 380px;
+}
+
+.textoNav{
+    font-size: 30px;
+    color: white;
+}
+.textoNav:hover{
+    
+    color: white;
+}
+.hoverNav:hover{
+    background: #5f8098;
+}
+.cajaNav:hover{
+    box-shadow: 2px 2px 30px;
+    
+}
+
+.mision:hover{
+    box-shadow: 2px 2px 30px;
+}
+.footer:hover{
+    box-shadow: 2px 2px 30px;
+}
+
+.divSesion{
+    background: rgba(0, 0, 0, 0.2);
+}
+.divSesion:hover{
+    box-shadow: 2px 2px 30px;
+}

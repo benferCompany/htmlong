@@ -1,0 +1,33 @@
+
+
+.color1{
+    background:#0c5183
+}
+.color2{
+    background:#f5c116;
+}
+.colo3{
+    background:white;
+}
+.color4{
+    background:#80a7bf;
+}
+.color5{
+    background: #5f8098;
+}
+.color6{
+    background:#b6d8eb;
+}
+.color9{
+    background: #0c2d3a;
+}
+.letraColor{
+    color:black;
+}
+.letraColor9{
+    background: #0c2d3a;
+}
+
+.sombra{
+    box-shadow: 0px 0px 1px;
+}
